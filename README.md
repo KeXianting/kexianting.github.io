@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## kxt main page
 
 You can use the [editor on GitHub](https://github.com/KeXianting/kexianting.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
